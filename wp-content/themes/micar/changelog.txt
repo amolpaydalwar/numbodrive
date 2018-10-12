@@ -1,0 +1,34 @@
+1.1
+	- Fix data import
+	
+1.2
+	- Fix error polylang
+	- Change load more product method
+	- Fix error rtl
+	
+1.3
+	- Clear float product grid
+	- Import data redirect blog page
+	
+1.4
+	- Fix error update cart(woocommerce 3.3.1)
+	
+1.5
+	- Fix theme option add google fonts
+	- Fix like post control
+	- Fix element instagram
+	
+1.6
+	- Add Setting On/Off Zoom Product
+
+1.7
+	- Update Element Profile
+
+1.8
+	- Fix Bug Import Menu on php version 7
+	
+1.9 - 7/8/2018
+	- Fix RTL
+	- Fix Update Cart
+	- Fix Live Search Ajax
+	- Update Visual Composer 5.5.2
